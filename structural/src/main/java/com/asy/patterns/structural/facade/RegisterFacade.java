@@ -19,19 +19,19 @@ public class RegisterFacade {
 
     }
 
-    public void registerUser(String username, String password){
+    public void registerUser(String username, String password) {
 
         User user = new User();
 
-        user.setUsername( username );
+        user.setUsername(username);
 
-        user.setPassword( password );
+        user.setPassword(password);
 
-        user.setRegistrationDate( new Date() );
+        user.setRegistrationDate(new Date());
 
         user.setSystem("MacOS X - 10.10.5");
 
-        registrationManager.makeRegistry( user );
+        registrationManager.makeRegistry(user);
 
     }
 

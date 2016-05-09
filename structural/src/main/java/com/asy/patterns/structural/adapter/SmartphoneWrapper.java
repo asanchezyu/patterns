@@ -7,7 +7,7 @@ package com.asy.patterns.structural.adapter;
  * @version 1.0.
  * @since 25/4/16.
  */
-public class SmartphoneWrapper implements Phone{
+public class SmartphoneWrapper implements Phone {
 
     private SmartPhone smartPhone = new SmartPhone();
 

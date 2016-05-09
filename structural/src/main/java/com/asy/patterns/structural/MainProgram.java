@@ -4,8 +4,8 @@ import com.asy.patterns.structural.adapter.LandlinePhone;
 import com.asy.patterns.structural.adapter.Phone;
 import com.asy.patterns.structural.adapter.SmartphoneWrapper;
 import com.asy.patterns.structural.facade.RegisterFacade;
-import com.asy.patterns.structural.proxy.WebParser;
 import com.asy.patterns.structural.proxy.HtmlWebParserProxy;
+import com.asy.patterns.structural.proxy.WebParser;
 
 public class MainProgram {
 

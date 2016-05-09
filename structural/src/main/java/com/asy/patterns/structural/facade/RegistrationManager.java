@@ -17,10 +17,10 @@ public class RegistrationManager {
 
         System.out.println(
                 "We'll made the registration for user with data: "
-                + "\n\tUsername:\t" + user.getUsername()
-                + "\n\tPassword:\t" + user.getPassword()
-                + "\n\tSystem:\t" + user.getSystem()
-                +" \n\tRegistration date:\t" + sdf.format(user.getRegistrationDate())
+                        + "\n\tUsername:\t" + user.getUsername()
+                        + "\n\tPassword:\t" + user.getPassword()
+                        + "\n\tSystem:\t" + user.getSystem()
+                        + " \n\tRegistration date:\t" + sdf.format(user.getRegistrationDate())
         );
 
         // We will make the registration in our system here.Database, rest services,etc...

@@ -3,7 +3,7 @@ package com.asy.patterns.structural.proxy;
 /**
  * Proxy class for html web parser.
  *
- * @author asanchezy.
+ * @author asanchezyu@gmail.com.
  * @version 1.0.
  * @since 9/5/16.
  */

@@ -9,11 +9,11 @@ package com.asy.patterns.structural.adapter;
  */
 public class SmartPhone {
 
-    public void touchScreenForNumbers(){
+    public void touchScreenForNumbers() {
         System.out.println("Dialing numbers from smartphone");
     }
 
-    public void makePhoneCall(){
+    public void makePhoneCall() {
         System.out.println("Making phone call from smartphone");
     }
 

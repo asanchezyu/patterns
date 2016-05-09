@@ -7,7 +7,7 @@ package com.asy.patterns.structural.adapter;
  * @version 1.0.
  * @since 25/4/16.
  */
-public class LandlinePhone implements Phone{
+public class LandlinePhone implements Phone {
 
     @Override
     public void dialNumbers() {
