@@ -26,4 +26,8 @@ public class DbManager {
         return instance;
     }
 
+    public String getDbName() {
+        return "myDb";
+    }
+
 }

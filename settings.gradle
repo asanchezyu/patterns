@@ -1,1 +1,1 @@
-include  ':creational'
+include  ':creational', ':structural'
