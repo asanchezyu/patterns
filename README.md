@@ -15,10 +15,12 @@ Patterns are devided in the three main types.
 Creational patterns are in "creational" module. The singleton pattern, builder pattern and factory method factory are explained in that module. 
 
 # Structural Patterns
-    <<Coming soon>>
+Structural patterns are in "structural" module. The adapter pattern, facade pattern and proxy factory are explained in that module.
 # Behavioral Patterns
     <<Coming soon>>
-        
+
+All the patterns are explained in my [BLOG](http://blog.asanchez-portfolio.es)
+
 # License
     Copyright 2016 Alejandro Sánchez
     
